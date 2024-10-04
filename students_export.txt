@@ -1,0 +1,92 @@
+Student Data:
+
+ID: 1
+Name: sifat
+Mobile No: 01646802540
+Email: sifat@gmail.com
+Address: mirpur 2
+Gender: male
+Date of Birth: 09-12-2000
+Added Date: 26/05/2024
+Added Time: 18:56:14
+
+ID: 3
+Name: shihab
+Mobile No: 01718436810
+Email: shihab2gmail.com
+Address: Savar
+Gender: Male
+Date of Birth: 12-03-2000
+Added Date: 26/05/2024
+Added Time: 18:57:28
+
+ID: 2
+Name: Fatin
+Mobile No: 01712436810
+Email: fatin@gmail.com
+Address: hall 2
+Gender: male
+Date of Birth: 12-03-2001
+Added Date: 26/05/2024
+Added Time: 19:12:19
+
+ID: 4
+Name: Iqramul
+Mobile No: 01718436812
+Email: sifatq@gmail.com
+Address: mirpur 2
+Gender: male
+Date of Birth: 12-02-2001
+Added Date: 26/05/2024
+Added Time: 19:13:39
+
+ID: 9
+Name: Shihab Sumon
+Mobile No: 01234256123
+Email: abc@gmail.com
+Address: savar nabinagar
+Gender: male
+Date of Birth: 12-05-2002
+Added Date: 26/05/2024
+Added Time: 19:40:10
+
+ID: 10
+Name: Shihab
+Mobile No: 01234256123
+Email: abc@gmail.com
+Address: savar nabinagar
+Gender: male
+Date of Birth: 12-05-2002
+Added Date: 26/05/2024
+Added Time: 19:40:10
+
+ID: 11
+Name: Shihab4
+Mobile No: 01234256123
+Email: abc@gmail.com
+Address: savar nabinagar
+Gender: male
+Date of Birth: 12-05-2002
+Added Date: 26/05/2024
+Added Time: 19:40:10
+
+ID: 12
+Name: Sifat
+Mobile No: 01624426493
+Email: sifat@12gmail.com
+Address: Mirpur 2
+Gender: Male
+Date of Birth: 09-12-2000
+Added Date: 26/05/2024
+Added Time: 21:05:48
+
+ID: 17
+Name: Sifat
+Mobile No: 01646802540
+Email: sifat@gmail.com
+Address: mirpur 2
+Gender: male
+Date of Birth: 12-02-2001
+Added Date: 26/05/2024
+Added Time: 21:40:38
+
